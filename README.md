@@ -1,3 +1,5 @@
+# Tutorial
+[Tutorial - https://www.tarlogic.com/blog/bypass-disable_functions-open_basedir](https://www.tarlogic.com/blog/bypass-disable_functions-open_basedir)
 # Chankro
 
 Your favourite tool to bypass __disable_functions__ and __open_basedir__ in your pentests. 
